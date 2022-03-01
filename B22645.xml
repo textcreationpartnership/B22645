@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to Mr. Miles Prance, in relation to the murther of Sir Edmond-bury Godfrey,</title>
+            <author>Everett, George, Shipwright.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22645</idno>
+            <idno type="OCLC"> 12610184</idno>
+            <idno type="STC">Wing E3546A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.1[124]</idno>
+            <idno type="STC">ESTC R20583</idno>
+            <idno type="EEBO-CITATION">99883393</idno>
+            <idno type="PROQUEST">ocm99883393</idno>
+            <idno type="VID">185961</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B22645)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185961)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:1[123])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to Mr. Miles Prance, in relation to the murther of Sir Edmond-bury Godfrey,</title>
+                  <author>Everett, George, Shipwright.</author>
+                  <author>Prance, Miles, fl. 1678-1689.</author>
+                  <author>Farwell, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.G. at the sign of Sir E.B.G's. Head near Fleet-bridge.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Truman [i.e. George Everett]. Formerly attributed to John Farwell.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Godfrey, Edmund Berry, --  Sir, 1621-1678 --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:185961:1" rendition="simple:additions"/>
+            <head>LETTER TO Mr. MILES PRANCE, In Relation to the Murther of <hi>Sir Edmond-bury Godfrey.</hi>
+            </head>
+            <opener>
+               <salute>Mr. PRANCE,</salute>
+            </opener>
+            <p>PErceiving by ſome late Pamphlets ſe<g ref="char:EOLhyphen"/>veral Rumors rais'd, as if there were endeavours us'd to aſperſe your <hi>Evi<g ref="char:EOLhyphen"/>dence</hi> in relation to the Death of Sir <hi>E.B.G.</hi> and to lay that Murther upon Himſelf. And remembring the <hi>conſternation</hi> which then was in all peoples minds by the Diſcovery at that time of a Dreadful and moſt Horrid <hi>Po<g ref="char:EOLhyphen"/>piſh Plot,</hi> which occaſion'd divers to report, and moſt to believe (even ſeveral days before the dead Body was found,) <hi>That he was Mur<g ref="char:EOLhyphen"/>der'd by the</hi> Papiſts <hi>at</hi> Somerſet-houſe. And hearing that the <hi>Coroners Jury</hi> or <hi>Inqueſt</hi> were firſt of Opinion, and accordingly declar'd he was <hi>Felo de Se;</hi> And that there was much Art and Skill us'd to procure their <hi>Verdict</hi> to the contrary; More particularly, the refuſing of the Body (at their Inſtance and requeſt) to be open'd; and oppoſing the Aſſiſtance of the <hi>Coroner</hi> of <hi>Weſtminſter,</hi> (who is taken notice of to be a Knowing and Impartial Man in the Execution of his Office;) who was deſir'd to, and did attend for that purpoſe, but was diſ<g ref="char:EOLhyphen"/>miſt with a <hi>Guiney;</hi> telling him, they had no need of his Service. I made it my buſineſs, partly for Yours, but chiefly for the Truths ſake, to make a ſtrict Enquiry into the farther Cauſes of the aforeſaid Rumours, and do find theſe particulars very much urg'd, and diſ<g ref="char:EOLhyphen"/>cours'd of, <hi>(viz.)</hi>
+            </p>
+            <p n="1">I. In oppoſition to the Evidence of his be<g ref="char:EOLhyphen"/>ing dog'd up and down, and lodg'd in a great Houſe at St. <hi>Clements</hi> on <hi>Saturday</hi> the 12 of <hi>October</hi> 1678. (being the day he was firſt miſ<g ref="char:EOLhyphen"/>ſing.) It is affirm'd he went out of his Houſe that very <hi>Saturday</hi> morning about 9 a Clock; (which is the laſt time he ever return'd thi<g ref="char:EOLhyphen"/>ther;) And about 10 that Forenoon was in the Fields walking towards <hi>Marybone,</hi> (in which Pariſh his dead Corps was afterwards found;) And was there met by a Brewer in <hi>S. Giles</hi>'s, who diſcours'd with him; And about 11. of the ſame day he was ſeen paſſing by the Lady <hi>Cooks</hi> Lodgings near the <hi>Cock-pit;</hi> After which, he was ſeen in St. <hi>Martin</hi>'s-<hi>lane,</hi> went by the Church, and down <hi>Church lane</hi> into the <hi>Strand;</hi> About 1. paſſed by the dore of one Mr. <hi>Ratcliff</hi> an Oyl-man in the <hi>Strand</hi> And ſoon after was met in the back Court of <hi>Lincolns Inne</hi> by two Gentlemen, who obſer<g ref="char:EOLhyphen"/>ved him to make a ſudden turn, and to go out at the back Dore; They went out at that Dore alſo, and did ſee him turn the corner Wall; Between which place and <hi>Turn-Stile,</hi> he was met by a Barriſter at Law; And that a perſon living near <hi>Primroſe-Hill,</hi> declar'd before divers perſons, that he ſaw him about 3 that <hi>Saturday</hi> in the Afternoon walking in thoſe Fields, his uſual Walk being that way.</p>
+            <p n="2">II. They ſay, the place where and the po<g ref="char:EOLhyphen"/>ſture wherein he was found, are very remark<g ref="char:EOLhyphen"/>able. As to the place; It was in a Ditch on the South ſide of <hi>Primroſe-hill,</hi> ſurrounded with divers <hi>Cloſes,</hi> Fenced with high Mounds and Ditches, no Road near, only ſome deep dirty Lanes made only for the conveniency for driving <hi>Cows</hi> and ſuch like <hi>Cattle</hi> in and out of the Grounds; And thoſe very Lanes not coming near 500 yards of the place, and impoſſible for any Man on Horſe back with a <hi>Dead Corps</hi> before him at Midnight to ap<g ref="char:EOLhyphen"/>proach, unleſs Gaps were made ith'Mounds, as the <hi>Conſtable</hi> and his Aſſiſtants found by Experience when they came on Horſeback thither. As to the poſture, his Breaſt was Unbutton'd, his Waſtcoat and Shirt put by, his Sword run in under his left Pap next his Skin, the Point coming out at his right Shoul<g ref="char:EOLhyphen"/>der about 6 Inches, his left Arm doubled un<g ref="char:EOLhyphen"/>der him, (on which his Head ſeem'd to lean,) and his right Arm ſtiff, ſtretcht out upon the Bank, his Belly and Breaſt being ſupported by the ſide of the Bank, his Knees knit toge<g ref="char:EOLhyphen"/>ther, and with his Hips a little bending or doubling under him.</p>
+            <p>And they infer from thence, that he being a tall raw-bon'd Man, (after he had been ſe<g ref="char:EOLhyphen"/>veral days dead,) could never be crooked ſo as to be cram<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d into a <hi>Sedan,</hi> (which are very low built, and difficult to be carry'd with proper Braces, much more as You Evidenc'd with <hi>Cords,</hi>) then ſtraightned, and his Legs open'd, and mounted on Horſe-back, and then put into the poſture he was found in, and ſtiffen'd again.</p>
+            <p n="3">
+               <pb n="2" facs="tcp:185961:2"/> III. Now although the Matters aforeſaid may be ſaid to be only <hi>circumſtantial,</hi> Yet they produce undeniable Arguments againſt your Evidence, <hi>(viz.) They ſay, that if a Man, or any other Creature be Strangled, or Hanged, and his Body cold, and the Blood ſettled in the Veins,</hi> (as he muſt needs be if Your <hi>Evidence</hi> be true,) <hi>run</hi> 20 <hi>Swords through ſuch a Body, not one drop of Blood will come out:</hi> But on the contrary, his Body when found, was full of Blood, inſomuch, that (over and above the <hi>Cakes</hi> or great Goblets of congeal'd putrify'd Blood found afterwards in his <hi>Cloaths</hi>) the <hi>Conſtable</hi> when he pull'd the Sword out of his Body, it craſh'd againſt his Back-bone, and Gobbets of Blood and Water guſh'd or gub<g ref="char:EOLhyphen"/>bled out of that Wound in abundance, not only in that very place where the Sword was pull'd out, but in all his paſſage to the <hi>White-Houſe,</hi> eſpecially there where his Body was lifted over two high Stumps; and alſo when he was laid upon the Table, the Blood and Water ſo iſſu'd out of that Wound, that it ran from off the Table upon the Floor, and from thence into the Celler; So that they do averr, that That Wound that he receiv'd by that Sword muſt of neceſſity be the cauſe of his Death. And they take notice, that ſo much of the Sword as was in his Body, was diſcolour'd and blackiſh; and that part that came out at his back was of a dulliſh colour, and the Point thereof was ruſty; Alſo, that his <hi>Cloaths, Belt</hi> and <hi>Scabbard</hi> were weather-heaten to rags; his Body ſtunk extremely; his Eys, Noſtrils, and corners of his Mouth were Fly-blown; all which muſt naturally be by his being ſo long in the Air.</p>
+            <p n="4">IV. They ſay, <hi>That when a Man is Strangled or Hanged, his Eys will be extorted, his Face will be ſwell'd &amp; black;</hi> Whereas His Eys were ſhut his Face was pale, only the left part of his Chin, with his Breaſt and Belly being next the Earth, were putrified, and look'd of a Blue and Greeniſh colour, more eſpecially a<g ref="char:EOLhyphen"/>bout the Wound; For that the Blood, when hot, running to the Wound, caus'd the grea<g ref="char:EOLhyphen"/>ter putrefaction in that place; Whenas, if the Wound had been made after he was dead, and cold, the reſt of his Body would have putrify'd as ſoon, and as much as there.</p>
+            <p n="5">V. They ſay, <hi>That the cleanneſs of his Shooes makes againſt Your Evidence; For his Shooes were clean'd or rather glaz'd on the very bot<g ref="char:EOLhyphen"/>toms of the Soles, occaſion'd by his walking in the Graſs, and Graſs-ſeeds were obſerv'd to ſtick in the Seams of his Shooes; And beſides, there was not one speck of Dirt on his Cloaths, or Legs, not ſo much as a Horſe-hair ſticking thereon;</hi> Whereas, the <hi>Conſtable,</hi> and thoſe that went with him, were dirty'd and moil'd up to the very Saddle-skirts, and not eaſily to be clea<g ref="char:EOLhyphen"/>ned; And Mr. <hi>Prance,</hi> you know that a tall <hi>Dead Man</hi> on Horſe-back, cannot lift up his Legs to ſave them from the Dirt.</p>
+            <p n="6">VI. As to the looſeneſs of his Neck, and the Rim or Green Circle about it, They ſay they are Ridiculous and Impertinent Argu<g ref="char:EOLhyphen"/>ments againſt ſo many Demonſtrative ones; eſpecially, when there is not a <hi>Nurſe,</hi> or any Woman of Age, that hath bury'd any Rela<g ref="char:EOLhyphen"/>tions, but will tell you it's very common for People to die with Necks as looſe as his was: And the Rim about his Neck was ſo far from being like one made with a <hi>Cravat</hi> or <hi>Han<g ref="char:EOLhyphen"/>kerchief,</hi> that it ſeems to be occaſion'd by the great heigth &amp; ſtifneſs of his <hi>Collar,</hi> which was faſt Button'd about his Neck, and on which his Head wreſted, and was unbutton'd about 10 of the clock the next day, before the <hi>Coroner</hi> or <hi>Jury</hi> came. But if that Rim, or thoſe Bruiſes, that Your Evidence ſeems to make the cauſe of his Death, were really ſo; Then they alledg, that in ſuch caſe, the whole Maſs of Blood would have ſettled there, and his Neck and Bruiſes would have ſwell'd, and have been perfect Black, which was not in His caſe.</p>
+            <p n="7">VII. They alſo ſay, That all theſe Matters are Notorious, and will be prov'd by divers credible and undeniable Eye and Ear Witneſ<g ref="char:EOLhyphen"/>ſes; And beſides, They obſerve, that <hi>Bedlow</hi>'s (before the <hi>Committee of Lords,</hi>) and Your <hi>E<g ref="char:EOLhyphen"/>vidence</hi> in relation to this Gentlemans Death, are as different as the <hi>Eaſt</hi> is from the <hi>Weſt;</hi> For You Dogg him out of St <hi>Clements;</hi> the other decoys him from <hi>Charing-Croſs:</hi> You ſwear he was Strangled with a Hankerchief near the Stables going to the Water-ſide; <hi>Bedlow,</hi> that he was Smother'd with a <hi>Pill<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w</hi> in a Room in the great <hi>Court</hi> in <hi>Somerſet-houſe.</hi> You ſay he took Horſe at <hi>So-ho; Bedlow</hi> ſays he took <hi>Coach</hi> at <hi>Clarenden-houſe,</hi> with many more ſuck like <hi>contradictions;</hi> And conſide<g ref="char:EOLhyphen"/>ring the Old Proverb, <hi>fore-warn'd, fore arm'd</hi> A further and fuller account of the whole matter expect, I being loath at preſent to exceed the bounds of a Letter, I am,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your very Loving Friend, <hi>Truman.</hi>
+               </signed>
+               <dateline>Cammbridge, <date>Febr. 23. 1681.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>M.G.</hi> at the Sign of Sir <hi>E.B.G</hi>'s. Head near <hi>Fleet-bridge.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
